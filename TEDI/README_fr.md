@@ -1,6 +1,6 @@
 # TEDI : Inventaire de sources de données toxicologiques et d'exposition (Toxicological and Exposure Database Inventory)
 
-🌍 **Available languages:** [Français](README_fr.md) | [English](README.md)
+🌍 **Langues displonibles** : [Français](README_fr.md) | [English](README.md)
 
 - **Objectif**
 
