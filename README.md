@@ -135,3 +135,15 @@ open http://localhost:3842      # Mac
 - Multiple apps can run simultaneously in separate browser tabs.  
 - Launchers automatically update the Docker image when executed.
 - DeSSyPHER repository on Docker Hub ([https://hub.docker.com/repository/docker/pascalpetit/dessypher/general](https://hub.docker.com/repository/docker/pascalpetit/dessypher/general))   
+
+---
+
+### **Option 3 – Access online (no installation required)**
+
+Some DeSSyPHER applications are directly accessible via the web:
+
+- [InCaRisk](https://exporisk-timc.imag.fr/InCaRisk/)  
+- [TEDI](https://exporisk-timc.imag.fr/TEDI/)  
+- [PAH HBM Tool](https://exporisk-timc.imag.fr/PAH/)  
+
+Simply click the links above to launch the applications in your browser — no Docker installation or coding is required.
