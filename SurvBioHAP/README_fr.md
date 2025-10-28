@@ -8,7 +8,7 @@
 SurvBioHAP permet d’estimer une valeur limite biologique (VLB) indicative en fonction du scénario d’exposition renseigné (ratio pyrène total/benzo[a]pyrène, PyrT/BaP) pour savoir à quoi comparer les niveaux 
 urinaires de 1-hydroxypyrène (1-OHP) mesurés. Si les niveaux urinaires de 1-OHP sont mis à disposition, l’outil permet également d’estimer les probabilités de dépassement de la VLB indicative. Tous les 
 tableaux et figures sont interactives et téléchargeables. Des boutons d’aide sont disponibles partout sur l’application pour aider à l’utilisation de l’outil en précisant notamment à quoi correspond chaque 
-paramètre, comment les régler, comment lire et interagir avec les tableaux et figures. SurvBioHAP est une déclinaison pédagogique et simplifiée en français de l'outil PAH HBM.
+paramètre, comment les régler, comment lire et interagir avec les tableaux et figures. SurvBioHAP est une déclinaison pédagogique et simplifiée en français de l'outil PAH HBM destinée notamment aux étudiants et médecins du travail (ex. : CRPPE, SST).
 
 - **Organisation et utilisation**
 
