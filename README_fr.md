@@ -1,5 +1,7 @@
 # DeSSyPHER : Système d’Aide à la Décision pour la Prévention des Risques Sanitaires liés à l’Exposome Humain (Decision Support System for the Prevention of Human Exposome-related health Risks)
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17467803.svg)](https://doi.org/10.5281/zenodo.17467803)
+
 🌍 **Langues disponibles** : [Français](README_fr.md) | [English](README.md)
 
 **DeSSyPHER** est un répertoire d’applications **Shiny dockerisées** conçu pour pallier le manque d’outils standardisés permettant d’évaluer les risques sanitaires associés à l’exposome humain.
