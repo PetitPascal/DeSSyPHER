@@ -1,4 +1,4 @@
-# InCaRisk: Inhalation Cancer Risk estimation
+# InCaRisk : Inhalation Cancer Risk estimation
 
 🌍 **Langues disponibles** : [Français](README_fr.md) | [English](README.md)
 
@@ -14,13 +14,13 @@ InCaRisk est composé d’une zone où définir le scénario d’exposition (enc
 
 - **Définition du scénario d’exposition**
 
-Des boutons d’aide bleus (*Help*) sont placés à côté de chaque paramètre afin d’expliquer à quoi celui-ci correspond et comment le régler. Il suffit de cliquer sur les boutons d’aide pour faire apparaître les explications. Le premier paramètre à définir est le type d’étude à conduire : *étude simple* ou *comparaison d’études*. Dans la *comparaison d’études*, plusieurs populations et/ou scénarii d’exposition peuvent être comparés. Le deuxième choix a effectué concerne le type d’analyse, avec soit l’utilisation d’un excès de risque unitaire (ERU) d’une agence sanitaire donnée (ex. : ANSES), soit la comparaison de l’estimation des risques de cancer en fonction de tous les ERU disponibles, soit les 2. Le bouton *Run new analysis* permet de lancer une nouvelle analyse. Tant que ce bouton n’a pas été cliqué, l’analyse et le choix du scenario d’exposition ne seront pas lancés et pris en compte.
+Des boutons d’aide bleus (*Help*) sont placés à côté de chaque paramètre afin d’expliquer à quoi celui-ci correspond et comment le régler. Il suffit de cliquer sur les boutons d’aide pour faire apparaître les explications. Le premier paramètre à définir est le type d’étude à conduire : *single study* ou *comparison of studies*. Dans la *comparaison d’études*, plusieurs populations et/ou scénarii d’exposition peuvent être comparés. Le deuxième choix a effectué concerne le type d’analyse, avec soit l’utilisation d’un excès de risque unitaire (ERU) d’une agence sanitaire donnée (ex. : ANSES), soit la comparaison de l’estimation des risques de cancer en fonction de tous les ERU disponibles, soit les 2. Le bouton *Run new analysis* permet de lancer une nouvelle analyse. Tant que ce bouton n’a pas été cliqué, l’analyse et le choix du scenario d’exposition ne seront pas lancés et pris en compte.
 Les choix suivants concernent la substance chimique d’intérêt, le choix de sont effets toxiques (i.e., type de cancers) et la sélection de l’ERU d’une agence sanitaire. Il faut ensuite soit téléversé un fichier contenant les concentrations du polluant d’intérêt mesuré dans l’atmosphère, soit définir une distribution de concentrations, en commençant par le type de distribution (log normale par défaut), la moyenne et l’unité des concentrations, l’écart-type de la distribution, le nombre simulé de valeurs mesuré, la prise en compte potentielle de fluctuations des concentrations au cours du temps, le nombre de simulations à réaliser et le type d'approche de modélisation à utiliser (Monte Carlo ou basée sur l'intelligence artificielle). Plus le nombre de simulations est grande, plus l’estimation sera précise, mais plus le temps de calcul sera long. Attention, plus l’écart-type est large, moins l’estimation sera fiable, ce qui souligne l’importance d’avoir des groupes homogènes d'exposition (GHE). 
 Il faut ensuite définir le scénario d’exposition, c’est-à-dire le nombre d’heures par jour, de jours par an et le nombre total d’années d’exposition, ainsi que la taille de la population (i.e., nombre d’individus exposés). Les choix suivant portent sur les indicateurs de risque et les agences sanitaires à comparer.
 
 - **Téléversement de fichier**
 
-Il est possible de téléverser des fichiers de concentration pour les études simples alors que c’est obligatoire pour la comparaison d’études. Pour téléverser un fichier, il suffit de cliquer sur les boutons 
+Il est possible de téléverser des fichiers de concentration pour les études simples (*single study*) alors que c’est obligatoire pour la comparaison d’études (*comparison of studies*). Pour téléverser un fichier, il suffit de cliquer sur les boutons 
 *Import data*. Une fenêtre contextuelle s’ouvrira alors, vous permettant de sélectionner le fichier à téléverser. Après avoir choisi le fichier, cliquez sur l’icône d’engrenage pour définir le séparateur décimal si nécessaire. 
 ***Attention, seul le point (.) est accepté***. Utilisez l’onglet *View* pour prévisualiser le jeu de données et vérifier que les informations sont correctes. 
 L’onglet *Update* vous permet de modifier le jeu de données. N’oubliez pas de cliquer sur *Apply changes* pour enregistrer les changements. Enfin, cliquez sur *Import data* pour charger le fichier sélectionné.
@@ -38,7 +38,7 @@ facteur 10 entre deux agences sanitaires ! Le choix de l’agence sanitaire est 
 
 Le troisième onglet (*Cancer - Chemicals*) fournit des informations concernant les types de cancers et les substances chimiques associées, tandis que le quatrième onglet fournit les facteurs de risque professionnels, environnementaux et comportementaux des différents cancers.
 
-Le cinquième onglet fournit les données utilisées (ex. : ERU) pour modéliser les risques de cancer par inhalation. Enfin, les quatre derniers onglets fournissent concernant l’utilisation d’InCaRisk dans la littérature scientifique, l’aide disponible, des informations sur InCaRisk et les mentions légales.
+Le cinquième onglet fournit les données utilisées (ex. : ERU) pour modéliser les risques de cancer par inhalation. Enfin, les quatre derniers onglets fournissent des informations concernant l’utilisation d’InCaRisk dans la littérature scientifique, l’aide disponible, des informations sur InCaRisk et les mentions légales.
 
 - **Logiciel et librairies utilisés**
 
@@ -147,7 +147,7 @@ Petit P, Maître A, Bicout DJ. A consensus approach for estimating health risk: 
 
 - **Contact**
 
-FSi vous avez des suggestions, des questions, si souhaitez collaborer avec nous ou si vous souhaitez que nous réalisions une évaluation des risques sanitaires de cancer par inhalation en utilisant InCaRisk, n'hésitez pas à nous contacter à l'adresse suivante :
+Si vous avez des suggestions, des questions, si souhaitez collaborer avec nous ou si vous souhaitez que nous réalisions une évaluation des risques sanitaires de cancer par inhalation en utilisant InCaRisk, n'hésitez pas à nous contacter à l'adresse suivante :
 
 
 **Pascal Petit**
