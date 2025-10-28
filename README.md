@@ -1,5 +1,8 @@
 # DeSSyPHER: Decision Support System for the Prevention of Human Exposome-related health Risks
 
+🌍 **Available languages:** [Français](README_fr.md) | [English](README.md)
+
+
 **DeSSyPHER** is a **repository of dockerized Shiny applications** designed to address the lack of standardized tools for assessing health risks associated with the human exposome. The repository currently provides several specialized applications:
 
 - **InCaRisk** (Inhalation Cancer Risk estimation)
