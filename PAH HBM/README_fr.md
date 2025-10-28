@@ -26,7 +26,7 @@ articles scientifiques concernant l’application. L’onglet *Help* synthétise
 
 - **Téléversement de fichier**
 
-Il est possible de téléverser des fichiers de concentration pour les études simples (*single study*) alors que c’est obligatoire pour la comparaison d’études (*comparison of studies*). Pour téléverser un fichier, il suffit de cliquer sur les boutons 
+Pour téléverser un fichier, il suffit de cliquer sur les boutons 
 *Import data*. Une fenêtre contextuelle s’ouvrira alors, vous permettant de sélectionner le fichier à téléverser. Après avoir choisi le fichier, cliquez sur l’icône d’engrenage pour définir le séparateur décimal si nécessaire. 
 ***Attention, seul le point (.) est accepté***. Utilisez l’onglet *View* pour prévisualiser le jeu de données et vérifier que les informations sont correctes. 
 L’onglet *Update* vous permet de modifier le jeu de données. N’oubliez pas de cliquer sur *Apply changes* pour enregistrer les changements. Enfin, cliquez sur *Import data* pour charger le fichier sélectionné.
