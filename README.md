@@ -33,7 +33,7 @@
 
 - **SurvBioHAP** (Surveillance Biologique des HAP)  
 
-Educational French version of PAH HBM Tool, for students, practitioners, and public health professionals.  
+*Goal*: Educational French version of PAH HBM Tool, for students, practitioners, and public health professionals.  
 
 *Principal Investigator*: Pascal Petit  
 *Collaborator*: Renaud Persoons  
