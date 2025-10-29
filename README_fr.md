@@ -74,12 +74,12 @@ Le répertoire propose actuellement plusieurs applications spécialisées :
 
 ```bash
 # Linux
-chmod +x InCaRisk_launcher.sh
-./InCaRisk_launcher.sh
+chmod +x InCaRisk.sh
+./InCaRisk.sh
 
 # Mac
-chmod +x InCaRisk_launcher.command
-./InCaRisk_launcher.command
+chmod +x InCaRisk.command
+./InCaRisk.command
 ```
 
 ---
