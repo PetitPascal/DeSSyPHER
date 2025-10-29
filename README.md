@@ -74,12 +74,12 @@
 
 ```bash
 # Linux
-chmod +x InCaRisk_launcher.sh
-./InCaRisk_launcher.sh
+chmod +x InCaRisk.sh
+./InCaRisk.sh
 
 # Mac
-chmod +x InCaRisk_launcher.command
-./InCaRisk_launcher.command
+chmod +x InCaRisk.command
+./InCaRisk.command
 ```
 
 ---
@@ -138,7 +138,7 @@ open http://localhost:3842      # Mac
 **Notes:**  
 - Each app runs in its own Docker container and may use a different host port.  
 - Multiple apps can run simultaneously in separate browser tabs.  
-- Launchers automatically update the Docker image when executed.
+- s automatically update the Docker image when executed.
 - DeSSyPHER repository on Docker Hub ([https://hub.docker.com/repository/docker/pascalpetit/dessypher/general](https://hub.docker.com/repository/docker/pascalpetit/dessypher/general))   
 
 ---
