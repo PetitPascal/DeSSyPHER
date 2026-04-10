@@ -236,30 +236,17 @@ email: pascal.petit@univ-grenoble-alpes.fr
 
 🌐 Thèse.fr: https://theses.fr/223750166
 
-🏛️ Current affiliation: Univ. Grenoble Alpes, AGEIS, 38000 Grenoble, France
+🏛️ Current affiliation: Univ. Grenoble Alpes, CNRS, Grenoble INP*, LIG, 38000 Grenoble, France
+
+*Institute of Engineering Univ. Grenoble Alpes
 
 🏛️Former affiliations:
+
+•	Univ. Grenoble Alpes, AGEIS, 38000 Grenoble, France
 
 •	Univ. Grenoble Alpes, CNRS, UMR 5525, VetAgro Sup, Grenoble INP, TIMC, 38000 Grenoble, France
                       
 •	CHU Grenoble Alpes, Centre Régional de Pathologies Professionnelles et Environnementales, 38000 Grenoble, France
-
-
-
-**Renaud Persoons**, collaborator
-
-email: rpersoons@chu-grenoble.fr
-
-🌐 ORCID: https://orcid.org/0000-0003-0700-2917
-
-🌐 ResearchGate: https://www.researchgate.net/profile/Renaud-Persoons
-
-🌐 HAL: https://hal.science/search/index/?q=*&authFullName_s=Renaud%20Persoons
-
-🌐 Thèse.fr: https://theses.fr/081356420
-
-🏛️ Current affiliation: Univ. Grenoble Alpes, CNRS, UMR 5525, VetAgro Sup, Grenoble INP, TIMC, 38000 Grenoble, France
-
 
 --
 
