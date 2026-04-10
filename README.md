@@ -152,3 +152,41 @@ Some DeSSyPHER applications are directly accessible via the web:
 - [PAH HBM Tool](https://exporisk-timc.imag.fr/PAH/)  
 
 Simply click the links above to launch the applications in your browser — no Docker installation or coding is required.
+
+---
+
+### **Contact**
+
+For questions regarding the tools or associated studies:
+
+**Pascal Petit**
+
+email: pascal.petit@univ-grenoble-alpes.fr
+
+•	*ORCID*: https://orcid.org/0000-0001-9015-5230
+
+•	*ResearchGate*: https://www.researchgate.net/profile/Pascal-Petit-3
+
+•	*Google Scholar*: https://scholar.google.fr/citations?user=ja8PT6MAAAAJ&hl=fr
+
+•	*Web Of Science*: https://www.webofscience.com/wos/author/record/M-4351-2017
+
+•	*HAL*: https://hal.science/search/index/q/*/authIdHal_s/pascal-petit
+
+•	*Thèse.fr*: https://theses.fr/223750166
+
+***Current affiliation***: Univ. Grenoble Alpes, CNRS, Grenoble INP*, LIG, 38000 Grenoble, France
+
+*Institute of Engineering Univ. Grenoble Alpes
+
+***Former affiliations***:
+
+•	Univ. Grenoble Alpes, AGEIS, 38000 Grenoble, France
+
+•	Univ. Grenoble Alpes, CNRS, UMR 5525, VetAgro Sup, Grenoble INP, TIMC, 38000 Grenoble, France
+                      
+•	CHU Grenoble Alpes, Centre Régional de Pathologies Professionnelles et Environnementales, 38000 Grenoble, France
+
+---
+
+If you find these scripts useful, please star this repository and cite the DOI in your research!
