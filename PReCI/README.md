@@ -1,4 +1,4 @@
-# PRéCI: Prévention des Risques de Cancer par Inhalation
+# PRéCI: PReventing Cancer risk from Inhalation exposure
 
 🌍 **Available languages:** [Français](README_fr.md) | [English](README.md)
 
