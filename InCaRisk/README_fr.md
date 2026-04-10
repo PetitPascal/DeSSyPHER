@@ -170,9 +170,13 @@ email: pascal.petit@univ-grenoble-alpes.fr
 
 🌐 Thèse.fr : https://theses.fr/223750166
 
-🏛️ Affiliation actuelle : Univ. Grenoble Alpes, AGEIS, 38000 Grenoble, France
+🏛️ Affiliation actuelle : Univ. Grenoble Alpes, CNRS, Grenoble INP*, LIG, 38000 Grenoble, France
+
+*Institute of Engineering Univ. Grenoble Alpes
 
 🏛️ Anciennes affiliations :
+
+•	Univ. Grenoble Alpes, AGEIS, 38000 Grenoble, France
 
 •	Univ. Grenoble Alpes, CNRS, UMR 5525, VetAgro Sup, Grenoble INP, TIMC, 38000 Grenoble, France
                       
