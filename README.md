@@ -189,4 +189,4 @@ email: pascal.petit@univ-grenoble-alpes.fr
 
 ---
 
-If you find these scripts useful, please star this repository and cite the DOI in your research!
+If you find these tools useful, please star this repository and cite the DOI in your research!
