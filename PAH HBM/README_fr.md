@@ -158,7 +158,23 @@ email : rpersoons@chu-grenoble.fr
 
 🏛️ Affiliation actuelle : Univ. Grenoble Alpes, CNRS, UMR 5525, VetAgro Sup, Grenoble INP, TIMC, 38000 Grenoble, France
 
+---
+### Financements
 
---
+Mon travail a bénéficié des financements suivants :
+
+•	**Février 2025 – présent** : aide de l’État gérée par l’Agence nationale de la recherche (ANR) au titre de France 2030, référence **ANR-23-IACL-0006**.
+
+•	**Septembre 2022 – avril 2026** : aide de l’État gérée par l’ANR au titre du programme *Investissements d’avenir*, références **ANR-10-AIRT-0005** et **ANR-15-IDEX-0002**.
+
+•	**Octobre 2018 – décembre 2020** : aide de l’Agence nationale de sécurité sanitaire de l’alimentation, de l’environnement et du travail (ANSES), références **2016-CRD-03_PPV16/534B** et **2018-CRD-14_PPV18**.
+
+•	**Janvier 2021 – décembre 2022** : aide de la Mutualité Sociale Agricole (MSA), référence **MSA-2020-STOP**.
+
+•	**Janvier 2021 – décembre 2021** : aide de la Fondation pour la Recherche sur Alzheimer, référence **2020-A-01**.
+
+•	**Octobre 2018 – janvier 2025** : aide de MIAI@Grenoble Alpes, référence **ANR-19-P3IA-0003**.
+
+---
 
 ⭐ If you find this app useful, please star this repository and cite the DOI in your research!
