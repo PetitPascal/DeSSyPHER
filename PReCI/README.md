@@ -183,6 +183,8 @@ email: dominique.bicout@univ-grenoble-alpes.fr
 🏛️ Current affiliation: Univ. Grenoble Alpes, CNRS, UMR 5525, VetAgro Sup, Grenoble INP, TIMC, 38000 Grenoble, France
 
 ---
+## Funding
+
 My research has been partially supported by:
 
 •	The French government, through the National Research Agency (ANR - Agence Nationale de la Recherche), under the *France 2030* program (MIAI Cluster), grant **ANR-23-IACL-0006** (February 2025 – present).
