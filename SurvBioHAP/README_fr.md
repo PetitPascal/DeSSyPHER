@@ -117,24 +117,26 @@ email: pascal.petit@univ-grenoble-alpes.fr
 
 🌐 Thèse.fr : https://theses.fr/223750166
 
-🏛️ Affiliation actuelle : Univ. Grenoble Alpes, CNRS, Grenoble INP*, LIG, 38000 Grenoble, France
-
-*Institute of Engineering Univ. Grenoble Alpes
+🏛️ Affiliation actuelle : en recherche active d'un nouvel emploi
 
 🏛️ Anciennes affiliations :
 
+•	Univ. Grenoble Alpes, CNRS, Grenoble INP*, LIG, 38000 Grenoble, France
+
 •	Univ. Grenoble Alpes, AGEIS, 38000 Grenoble, France
 
-•	Univ. Grenoble Alpes, CNRS, UMR 5525, VetAgro Sup, Grenoble INP, TIMC, 38000 Grenoble, France
+•	Univ. Grenoble Alpes, CNRS, UMR 5525, VetAgro Sup, Grenoble INP*, TIMC, 38000 Grenoble, France
                       
 •	CHU Grenoble Alpes, Centre Régional de Pathologies Professionnelles et Environnementales, 38000 Grenoble, France
+
+*Institute of Engineering Univ. Grenoble Alpes
 
 ---
 ### Financements
 
 Mon travail a bénéficié des financements suivants :
 
-•	**Février 2025 – présent** : aide de l’État gérée par l’Agence nationale de la recherche (ANR) au titre de France 2030, référence **ANR-23-IACL-0006**.
+•	**Février 2025 – mai 2026** : aide de l’État gérée par l’Agence nationale de la recherche (ANR) au titre de France 2030, référence **ANR-23-IACL-0006**.
 
 •	**Septembre 2022 – avril 2026** : aide de l’État gérée par l’ANR au titre du programme *Investissements d’avenir*, références **ANR-10-AIRT-0005** et **ANR-15-IDEX-0002**.
 
