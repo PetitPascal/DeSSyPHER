@@ -28,7 +28,7 @@ Le répertoire propose actuellement plusieurs applications spécialisées :
 
 *Objectif principal* : Outil d'aide à l’interprétation et à la prise de décision pour l’évaluation des risques sanitaires liés aux mélanges d’HAP à partir des concentrations en 1-hydroxypyrène issues de la surveillance biologique.  
 
-*Investigateurs principaux* : Pascal Petit  
+*Investigateur principal* : Pascal Petit  
 *Collaborateur* : Renaud Persoons  
 
 *Publication* : Clauzel A, Persoons R, Maître A, Balducci F, Petit P. Review of environmental airborne pyrene/benzo[a]pyrene levels for improving 1-hydroxypyrene biomonitoring interpretation. J Toxicol Environ Health B Crit Rev. 2024;27(5-6):212-232. [DOI](https://doi.org/10.1080/10937404.2024.2362632)  
@@ -37,7 +37,8 @@ Le répertoire propose actuellement plusieurs applications spécialisées :
 
 *Objectif principal* : Version pédagogique francophone du PAH HBM Tool destinée aux étudiants et professionnels de santé (ex. : médecins du travail de CRPPE, de SST).  
 
-*Investigateur principal* : Pascal Petit 
+*Investigateur principal* : Pascal Petit
+*Collaborateurs* : Renaud Persoons, Vincent Bonneterre
 
 - **TEDI** (Toxicological and Exposure Database Inventory)  
 
