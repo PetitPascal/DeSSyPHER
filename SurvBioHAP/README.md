@@ -250,7 +250,7 @@ email: pascal.petit@univ-grenoble-alpes.fr
 
 *Institute of Engineering Univ. Grenoble Alpes
 
-
+---
 **Renaud Persoons**, collaborator
 
 email: rpersoons@chu-grenoble.fr
@@ -267,7 +267,7 @@ email: rpersoons@chu-grenoble.fr
 
 *Institute of Engineering Univ. Grenoble Alpes
 
-
+---
 **Vincent Bonneterre**, collaborator
 
 email: vbonneterre@chu-grenoble.fr
