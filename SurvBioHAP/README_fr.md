@@ -131,10 +131,48 @@ email: pascal.petit@univ-grenoble-alpes.fr
 
 *Institute of Engineering Univ. Grenoble Alpes
 
+
+**Renaud Persoons**, collaborateur
+
+email : rpersoons@chu-grenoble.fr
+
+🌐 ORCID : https://orcid.org/0000-0003-0700-2917
+
+🌐 ResearchGate : https://www.researchgate.net/profile/Renaud-Persoons
+
+🌐 HAL : https://hal.science/search/index/?q=*&authFullName_s=Renaud%20Persoons
+
+🌐 Thèse.fr : https://theses.fr/081356420
+
+🏛️ Affiliation :	Univ. Grenoble Alpes, CNRS, UMR 5525, VetAgro Sup, Grenoble INP*, TIMC, 38000 Grenoble, France
+
+*Institute of Engineering Univ. Grenoble Alpes
+
+
+**Vincent Bonneterre**, collaborateur
+
+email : vbonneterre@chu-grenoble.fr
+
+🌐 ORCID : https://orcid.org/0000-0003-2353-7102
+
+🌐 ResearchGate : https://www.researchgate.net/profile/Vincent-Bonneterre
+
+🌐 HAL : https://hal.science/search/index/?q=*&authFullName_s=Vincent%20Bonneterre
+
+🌐 Thèse.fr : https://theses.fr/145775070
+
+🏛️ Affiliation: 
+
+•	Univ. Grenoble Alpes, CNRS, UMR 5525, VetAgro Sup, Grenoble INP*, TIMC, 38000 Grenoble, France
+
+•	CRPPE Auvergne-Rhône Alpes, CHU Grenoble-Alpes, Grenoble, France
+
+*Institute of Engineering Univ. Grenoble Alpes
+
 ---
 ### Financements
 
-Mon travail a bénéficié des financements suivants :
+Le travail de Pascal Petit a bénéficié des financements suivants :
 
 •	**Février 2025 – mai 2026** : aide de l’État gérée par l’Agence nationale de la recherche (ANR) au titre de France 2030, référence **ANR-23-IACL-0006**.
 
