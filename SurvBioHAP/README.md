@@ -250,10 +250,49 @@ email: pascal.petit@univ-grenoble-alpes.fr
 
 *Institute of Engineering Univ. Grenoble Alpes
 
+
+**Renaud Persoons**, collaborator
+
+email: rpersoons@chu-grenoble.fr
+
+🌐 ORCID: https://orcid.org/0000-0003-0700-2917
+
+🌐 ResearchGate: https://www.researchgate.net/profile/Renaud-Persoons
+
+🌐 HAL: https://hal.science/search/index/?q=*&authFullName_s=Renaud%20Persoons
+
+🌐 Thèse.fr: https://theses.fr/081356420
+
+🏛️ Current affiliation:	Univ. Grenoble Alpes, CNRS, UMR 5525, VetAgro Sup, Grenoble INP*, TIMC, 38000 Grenoble, France
+
+*Institute of Engineering Univ. Grenoble Alpes
+
+
+**Vincent Bonneterre**, collaborator
+
+email: vbonneterre@chu-grenoble.fr
+
+🌐 ORCID: https://orcid.org/0000-0003-2353-7102
+
+🌐 ResearchGate: https://www.researchgate.net/profile/Vincent-Bonneterre
+
+🌐 HAL: https://hal.science/search/index/?q=*&authFullName_s=Vincent%20Bonneterre
+
+🌐 Thèse.fr: https://theses.fr/145775070
+
+🏛️ Current affiliation: 
+
+•	Univ. Grenoble Alpes, CNRS, UMR 5525, VetAgro Sup, Grenoble INP*, TIMC, 38000 Grenoble, France
+
+•	CRPPE Auvergne-Rhône Alpes, CHU Grenoble-Alpes, Grenoble, France
+
+*Institute of Engineering Univ. Grenoble Alpes
+
+
 ---
 ## Funding
 
-My research has been partially supported by:
+Pascal Petit's work has been partially supported by:
 
 •	The French government, through the National Research Agency (ANR - Agence Nationale de la Recherche), under the *France 2030* program (MIAI Cluster), grant **ANR-23-IACL-0006** (February 2025 – May 2026).
 
