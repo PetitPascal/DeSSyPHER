@@ -29,7 +29,7 @@
 *Goal*: Supports interpretation and decision-making for PAH mixture risk assessment based on 1-hydroxypyrene concentrations from human biomonitoring.  
 
 *Principal Investigator*: Pascal Petit  
-*Collaborators*: Renaud Persoons, Vincent Bonneterre  
+*Collaborator*: Renaud Persoons 
 
 *Publication*: Clauzel A, Persoons R, Maître A, Balducci F, Petit P. Review of environmental airborne pyrene/benzo[a]pyrene levels for improving 1-hydroxypyrene biomonitoring interpretation. J Toxicol Environ Health B Crit Rev. 2024;27(5-6):212-232. [DOI](https://doi.org/10.1080/10937404.2024.2362632)  
 
@@ -38,7 +38,7 @@
 *Goal*: Educational French version of PAH HBM Tool, for students, practitioners, and public health professionals.  
 
 *Principal Investigator*: Pascal Petit  
-*Collaborator*: Renaud Persoons  
+*Collaborators*: Renaud Persoons, Vincent Bonneterre   
 
 - **TEDI** (Toxicological and Exposure Database Inventory)  
 
