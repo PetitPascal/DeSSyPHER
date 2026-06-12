@@ -67,6 +67,19 @@ Le répertoire propose actuellement plusieurs applications spécialisées :
 1. Télécharger le fichier exécutable du lanceur (ex. : `InCaRisk.exe`) depuis ce répertoire GitHub.  
 2. Double-cliquer sur le fichier `.exe`. Le lanceur télécharge automatiquement la dernière image Docker, exécute le conteneur Shiny, puis ouvre votre navigateur par défaut.  
 
+***Remarque*** : Dans certains cas, le lancement peut échouer en raison de problèmes de routage, ce qui entraîne une erreur. Si cela se produit, vous pouvez résoudre le problème de la façon suivante :
+
+```powershell
+# Exécuter une fois dans PowerShell en mode administrateur
+netsh interface ipv6 set prefixpolicy ::ffff:0:0/96 46 4
+```
+Après cette manipulation, redémarrer le logiciel Docker desktop avant de double-cliquer de nouveau sur le fichier `.exe` (ex. : `InCaRisk.exe`). Ce paramètre est conservé après les redémarrages ; vous n'avez donc pas besoin de le redéfinir à chaque fois, mais pour revenir au comportement par défaut :
+
+```powershell
+# Exécuter une fois dans PowerShell en mode administrateur
+netsh interface ipv6 set prefixpolicy ::ffff:0:0/96 35 4
+```
+
 **Linux / Mac**  
 
 1. Télécharger le fichier `.sh` (Linux) ou `.command` (Mac).  
@@ -104,6 +117,21 @@ Start-Process "http://localhost:3839"
 Start-Process "http://localhost:3840"
 Start-Process "http://localhost:3841"
 Start-Process "http://localhost:3842"
+```
+
+***Remarque*** : Sur certains réseaux Windows, le téléchargement d'images Docker volumineuses peut échouer en raison de problèmes de routage IPv6, ce qui entraîne une erreur `EOF`. Si cela se produit, vous pouvez forcer Docker à privilégier IPv4 :
+
+```powershell
+# Exécuter une fois dans PowerShell en mode administrateur
+netsh interface ipv6 set prefixpolicy ::ffff:0:0/96 46 4
+```
+
+Ensuite, redémarrez Docker Desktop. Essayez ensuite à nouveau de récupérer l'image Docker; cela devrait fonctionner. Ce paramètre est conservé après les redémarrages ; vous n'avez donc pas besoin de le réactiver à chaque fois. Toutefois, pour revenir au comportement par défaut :
+
+```powershell
+# Exécuter une fois dans PowerShell en mode administrateur
+# Rétablir la priorité par défaut entre IPv6 et IPv4
+netsh interface ipv6 set prefixpolicy ::ffff:0:0/96 35 4
 ```
 
 **Linux / Mac (Terminal)**  
