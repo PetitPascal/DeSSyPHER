@@ -65,7 +65,21 @@
 **Windows**  
 
 1. Download the launcher executable (e.g., `InCaRisk.exe`) from this GitHub repository.  
-2. Double-click the `.exe`. The launcher automatically pulls the latest Docker image, runs the Shiny app container, and opens your default web browser.  
+2. Double-click the `.exe`. The launcher automatically pulls the latest Docker image, runs the Shiny app container, and opens your default web browser.
+
+***Note***: On some Windows networks, the laucnher executable may fail due to routing issues. If this happens, you need to:
+
+```powershell
+# Run once in an elevated (Admin) PowerShell
+netsh interface ipv6 set prefixpolicy ::ffff:0:0/96 46 4
+```
+After this, restart Docker desktop. This setting persists across reboots, so you do not need to run it each time, but, to revert back to the default behavior:
+
+```powershell
+# Run once in an elevated (Admin) PowerShell
+# Revert to default IPv6/IPv4 precedence
+netsh interface ipv6 set prefixpolicy ::ffff:0:0/96 35 4
+```
 
 **Linux / Mac**  
 
@@ -106,6 +120,21 @@ Start-Process "http://localhost:3841"
 Start-Process "http://localhost:3842"
 ```
 
+***Note***: On some Windows networks, large Docker image downloads may fail due to IPv6 routing issues, resulting in an `EOF` error. If this happens, you can force Docker to prefer IPv4:
+
+```powershell
+# Run once in an elevated (Admin) PowerShell
+netsh interface ipv6 set prefixpolicy ::ffff:0:0/96 46 4
+```
+
+After this, restart Docker desktop. Then, retry pulling the Docker image or running the launcher, it should work. This setting persists across reboots, so you do not need to run it each time, but, to revert back to the default behavior:
+
+```powershell
+# Run once in an elevated (Admin) PowerShell
+# Revert to default IPv6/IPv4 precedence
+netsh interface ipv6 set prefixpolicy ::ffff:0:0/96 35 4
+```
+
 **Linux / Mac (Terminal)**  
 ```bash
 # Pull the latest image
@@ -138,7 +167,7 @@ open http://localhost:3842      # Mac
 **Notes:**  
 - Each app runs in its own Docker container and may use a different host port.  
 - Multiple apps can run simultaneously in separate browser tabs.  
-- s automatically update the Docker image when executed.
+- Launchers automatically update the Docker image when executed.
 - DeSSyPHER repository on Docker Hub ([https://hub.docker.com/repository/docker/pascalpetit/dessypher/general](https://hub.docker.com/repository/docker/pascalpetit/dessypher/general))   
 
 ---
