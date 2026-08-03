@@ -187,7 +187,7 @@ Il suffit de cliquer sur les liens ci-dessus pour lancer les applications direct
 
 **Pascal Petit**
 
-email : pascal.petit@univ-grenoble-alpes.fr
+email : pascal.petit.researcher@gmail.com
 
 •	*ORCID* : https://orcid.org/0000-0001-9015-5230
 
